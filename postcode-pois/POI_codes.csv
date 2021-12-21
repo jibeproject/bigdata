@@ -1,0 +1,634 @@
+pointx_class,Group Description,Category Description,Class,Class Description
+6340453,06 Public infrastructure,34 Infrastructure and facilities,453,Allotments
+6340454,06 Public infrastructure,34 Infrastructure and facilities,454,Cemeteries and crematoria
+6340455,06 Public infrastructure,34 Infrastructure and facilities,455,Drinking fountains and water points
+6340433,06 Public infrastructure,34 Infrastructure and facilities,433,Electrical features
+6340435,06 Public infrastructure,34 Infrastructure and facilities,435,Fire safety features
+6340437,06 Public infrastructure,34 Infrastructure and facilities,437,Gas features
+6340456,06 Public infrastructure,34 Infrastructure and facilities,456,Halls and community centres
+6340457,06 Public infrastructure,34 Infrastructure and facilities,457,Letter boxes
+6340458,06 Public infrastructure,34 Infrastructure and facilities,458,Libraries
+6340438,06 Public infrastructure,34 Infrastructure and facilities,438,Meteorological features
+6340459,06 Public infrastructure,34 Infrastructure and facilities,459,Places of worship
+6340461,06 Public infrastructure,34 Infrastructure and facilities,461,Public toilets
+6340462,06 Public infrastructure,34 Infrastructure and facilities,462,Recycling centres
+6340440,06 Public infrastructure,34 Infrastructure and facilities,440,Refuse disposal facilities
+6340442,06 Public infrastructure,34 Infrastructure and facilities,442,Telecommunications companies
+6340443,06 Public infrastructure,34 Infrastructure and facilities,443,Telecommunications features
+6340444,06 Public infrastructure,34 Infrastructure and facilities,444,Utility companies and brokers
+6340441,06 Public infrastructure,34 Infrastructure and facilities,441,"Waste storage, processing and disposal"
+6340802,06 Public infrastructure,34 Infrastructure and facilities,802,Wi-Fi hotspots
+10590732,10 Transport,59 Bus transport,732,Bus stops
+10590759,10 Transport,59 Bus transport,759,Hail and ride zones
+1020012,"01 Accommodation, eating and drinking",02 Eating and drinking,12,Banqueting and function rooms
+1020013,"01 Accommodation, eating and drinking",02 Eating and drinking,13,"Cafes, snack bars and tea rooms"
+1020018,"01 Accommodation, eating and drinking",02 Eating and drinking,18,Fast food and takeaway outlets
+1020019,"01 Accommodation, eating and drinking",02 Eating and drinking,19,Fast food delivery services
+1020020,"01 Accommodation, eating and drinking",02 Eating and drinking,20,Fish and chip shops
+1020025,"01 Accommodation, eating and drinking",02 Eating and drinking,25,Internet Cafes
+1020034,"01 Accommodation, eating and drinking",02 Eating and drinking,34,"Pubs, bars and inns"
+1020043,"01 Accommodation, eating and drinking",02 Eating and drinking,43,Restaurants
+2100823,02 Commercial services,"10 Personal, consumer and other service",823,Adult services
+2100155,02 Commercial services,"10 Personal, consumer and other service",155,"Astrologers, clairvoyants and palmists"
+2100158,02 Commercial services,"10 Personal, consumer and other service",158,Cleaning services
+2100160,02 Commercial services,"10 Personal, consumer and other service",160, Customer service centres
+2100161,02 Commercial services,"10 Personal, consumer and other service",161,CV writers
+2100162,02 Commercial services,"10 Personal, consumer and other service",162,Detective and investigation agencies
+2100112,02 Commercial services,"10 Personal, consumer and other service",112,Event Ticket Agents and Box Office
+2100165,02 Commercial services,"10 Personal, consumer and other service",165,Funeral and associated services
+2100167,02 Commercial services,"10 Personal, consumer and other service",167,"Headquarters, administration and central
+offices"
+2100166,02 Commercial services,"10 Personal, consumer and other service",166,Historical research
+2100156,02 Commercial services,"10 Personal, consumer and other service",156,Hair and beauty services
+2100103,02 Commercial services,"10 Personal, consumer and other service",103,Hotel Booking Agencies
+2100169,02 Commercial services,"10 Personal, consumer and other service",169,Introduction and dating agencies
+2100170,02 Commercial services,"10 Personal, consumer and other service",170,"Lock, key and security services"
+2100171,02 Commercial services,"10 Personal, consumer and other service",171,Message and greeting services
+2100173,02 Commercial services,"10 Personal, consumer and other service",173,Motoring organisations
+2100774,02 Commercial services,"10 Personal, consumer and other service",774,"Musicians, orchestras and composers"
+2100174,02 Commercial services,"10 Personal, consumer and other service",174,Party organisers
+2100175,02 Commercial services,"10 Personal, consumer and other service",175,Personalisation
+2100177,02 Commercial services,"10 Personal, consumer and other service",177,Photographic services
+2100826,02 Commercial services,"10 Personal, consumer and other service",826,Printing on garments
+2100818,02 Commercial services,"10 Personal, consumer and other service",818,Sewage Services
+2100775,02 Commercial services,"10 Personal, consumer and other service",775,"Sculptors, woodworkers and stonemasons"
+2100822,02 Commercial services,"10 Personal, consumer and other service",822,Slimming clubs and services
+2100821,02 Commercial services,"10 Personal, consumer and other service",821,Spas
+2100179,02 Commercial services,"10 Personal, consumer and other service",179,Sports services
+2100776,02 Commercial services,"10 Personal, consumer and other service",776,Tailoring and clothing alteration
+2100180,02 Commercial services,"10 Personal, consumer and other service",180,Tattooing and piercing services
+2100182,02 Commercial services,"10 Personal, consumer and other service",182,Trophies and engraving services
+2100777,02 Commercial services,"10 Personal, consumer and other service",777,Vehicle breakdown and recovery services
+2100183,02 Commercial services,"10 Personal, consumer and other service",183,Vehicle cleaning services
+2100185,02 Commercial services,"10 Personal, consumer and other service",185,Weather services
+2100186,02 Commercial services,"10 Personal, consumer and other service",186,Wedding services
+2100188,02 Commercial services,"10 Personal, consumer and other service",188,Window cleaners
+2090135,02 Commercial services,09 Legal and financial,135,Accountants and auditors
+2090137,02 Commercial services,09 Legal and financial,137,"Auctioneers, auction rooms and valuers"
+2090141,02 Commercial services,09 Legal and financial,141,Cash machines
+2090142,02 Commercial services,09 Legal and financial,142,Cheque cashing
+2090795,02 Commercial services,09 Legal and financial,795,Commodity dealers
+2090143,02 Commercial services,09 Legal and financial,143,Company registration and trademarks
+2090144,02 Commercial services,09 Legal and financial,144,Copyright and patent
+2090145,02 Commercial services,09 Legal and financial,145,Credit reference agencies
+2090140,02 Commercial services,09 Legal and financial,140,Currency conversion and money transfers
+2090146,02 Commercial services,09 Legal and financial,146,Debt collecting agencies
+2090147,02 Commercial services,09 Legal and financial,147,Financial advice services
+2090138,02 Commercial services,09 Legal and financial,138,Banks and building societies
+2090796,02 Commercial services,09 Legal and financial,796,Franchise and holding company services
+2090148,02 Commercial services,09 Legal and financial,148,Fundraising services
+2090149,02 Commercial services,09 Legal and financial,149,Insurers and support activities
+2090150,02 Commercial services,09 Legal and financial,150,Mortgage and financial lenders
+2090151,02 Commercial services,09 Legal and financial,151,Pawnbrokers
+2090811,02 Commercial services,09 Legal and financial,811,PayPoint® locations
+2090829,02 Commercial services,09 Legal and financial,829,Pension and fund management
+2090154,02 Commercial services,09 Legal and financial,154,"Solicitors, advocates and notaries public"
+2090773,02 Commercial services,09 Legal and financial,773,"Stocks, shares and unit trusts"
+2030779,02 Commercial services,03 Construction services,779,Building and component suppliers
+2030045,02 Commercial services,03 Construction services,45,Building contractors
+2030046,02 Commercial services,03 Construction services,46,Construction completion services
+2030047,02 Commercial services,03 Construction services,47,Construction plant
+2030048,02 Commercial services,03 Construction services,48,"Cutting, drilling and welding services"
+2030049,02 Commercial services,03 Construction services,49,Demolition services
+2030050,02 Commercial services,03 Construction services,50,Diving services
+2030051,02 Commercial services,03 Construction services,51,Electrical contractors
+2030778,02 Commercial services,03 Construction services,778,Fencing and drystone walling services
+2030052,02 Commercial services,03 Construction services,52,"Gardening, landscaping and tree surgery
+services"
+2030053,02 Commercial services,03 Construction services,53,Glaziers
+2030044,02 Commercial services,03 Construction services,44,Metalworkers including blacksmiths
+2030054,02 Commercial services,03 Construction services,54,Painting and decorating services
+2030055,02 Commercial services,03 Construction services,55,Plasterers
+2030056,02 Commercial services,03 Construction services,56,Plumbing and heating services
+2030057,02 Commercial services,03 Construction services,57,Pool and court construction
+2030058,02 Commercial services,03 Construction services,58,Restoration and preservation services
+2030059,02 Commercial services,03 Construction services,59,Road construction services
+2030060,02 Commercial services,03 Construction services,60,Roofing and chimney services
+9480712,09 Retail,"48 Household, office, leisure and garden",712,Art and antiques
+9480674,09 Retail,"48 Household, office, leisure and garden",674,Books and maps
+9480693,09 Retail,"48 Household, office, leisure and garden",693,Camping and caravanning
+9480675,09 Retail,"48 Household, office, leisure and garden",675,"Carpets, rugs, soft furnishings and needlecraft"
+9480714,09 Retail,"48 Household, office, leisure and garden",714,Charity shops
+9480683,09 Retail,"48 Household, office, leisure and garden",683,Garden centres and nurseries
+9480684,09 Retail,"48 Household, office, leisure and garden",684,Garden machinery and furniture
+9480685,09 Retail,"48 Household, office, leisure and garden",685,General household goods
+9480717,09 Retail,"48 Household, office, leisure and garden",717,Gifts and cards
+9480686,09 Retail,"48 Household, office, leisure and garden",686,"Hobby, sports and pastime products"
+9480687,09 Retail,"48 Household, office, leisure and garden",687,"Leather goods, luggage and travel accessories including handbags"
+9480676,09 Retail,"48 Household, office, leisure and garden",676,China and glassware
+9480827,09 Retail,"48 Household, office, leisure and garden",827,Comic books
+9480828,09 Retail,"48 Household, office, leisure and garden",828,Computer shops
+9480720,09 Retail,"48 Household, office, leisure and garden",720,Computer supplies
+9480677,09 Retail,"48 Household, office, leisure and garden",677,"Cosmetics, toiletries, perfumes and hairdressing supplies"
+9480678,09 Retail,"48 Household, office, leisure and garden",678,Craft supplies
+9480679,09 Retail,"48 Household, office, leisure and garden",679,Cycles and accessories
+9480700,09 Retail,"48 Household, office, leisure and garden",700,Department stores
+9480701,09 Retail,"48 Household, office, leisure and garden",701,Discount stores
+9480680,09 Retail,"48 Household, office, leisure and garden",680,DIY and home improvement
+9480721,09 Retail,"48 Household, office, leisure and garden",721,Domestic appliances
+9480722,09 Retail,"48 Household, office, leisure and garden",722,Electrical goods and components
+9480716,09 Retail,"48 Household, office, leisure and garden",716,Florists
+9480682,09 Retail,"48 Household, office, leisure and garden",682,Furniture
+9480766,09 Retail,"48 Household, office, leisure and garden",766,Fuel distributors and suppliers
+9480764,09 Retail,"48 Household, office, leisure and garden",764,"Garages, garden and portable buildings"
+9480688,09 Retail,"48 Household, office, leisure and garden",688,Lighting
+9480704,09 Retail,"48 Household, office, leisure and garden",704,Mail order and catalogue stores
+9480689,09 Retail,"48 Household, office, leisure and garden",689,Music and video
+9480690,09 Retail,"48 Household, office, leisure and garden",690,Musical instruments
+9480718,09 Retail,"48 Household, office, leisure and garden",718,Party goods and novelties
+9480691,09 Retail,"48 Household, office, leisure and garden",691,"Pets, supplies and services"
+9480724,09 Retail,"48 Household, office, leisure and garden",724,Photographic and optical equipment
+9480763,09 Retail,"48 Household, office, leisure and garden",763,Post offices
+9480831,09 Retail,"48 Household, office, leisure and garden",831,Potteries
+9480719,09 Retail,"48 Household, office, leisure and garden",719,Second-hand goods
+9480708,09 Retail,"48 Household, office, leisure and garden",708,Shopping centres and retail parks
+9480725,09 Retail,"48 Household, office, leisure and garden",725,Stationery and office supplies
+9480710,09 Retail,"48 Household, office, leisure and garden",710,Surplus goods
+9480726,09 Retail,"48 Household, office, leisure and garden",726,Telephones and telephone cards
+9480694,09 Retail,"48 Household, office, leisure and garden",694,Travel agencies
+9470671,09 Retail,"47 Food, drink and multi item retail",671,Alcoholic drinks including off-licences and wholesalers
+9470661,09 Retail,"47 Food, drink and multi item retail",661,Bakeries
+9470662,09 Retail,"47 Food, drink and multi item retail",662,Butchers
+9470768,09 Retail,"47 Food, drink and multi item retail",768,Cash and carry
+9470663,09 Retail,"47 Food, drink and multi item retail",663,Confectioners
+9470699,09 Retail,"47 Food, drink and multi item retail",699,Convenience stores and independent supermarkets
+9470665,09 Retail,"47 Food, drink and multi item retail",665,Delicatessens
+9470666,09 Retail,"47 Food, drink and multi item retail",666,Fishmongers
+9470667,09 Retail,"47 Food, drink and multi item retail",667,Frozen foods
+9470668,09 Retail,"47 Food, drink and multi item retail",668,Green and new age goods
+9470669,09 Retail,"47 Food, drink and multi item retail",669,"Grocers, farm shops and pick your own"
+9470670,09 Retail,"47 Food, drink and multi item retail",670,Herbs and spices
+9470703,09 Retail,"47 Food, drink and multi item retail",703,Livestock markets
+9470705,09 Retail,"47 Food, drink and multi item retail",705,Markets
+9470672,09 Retail,"47 Food, drink and multi item retail",672,"Organic, health, gourmet and kosher foods"
+9470819,09 Retail,"47 Food, drink and multi item retail",819,Supermarket chains
+9470798,09 Retail,"47 Food, drink and multi item retail",798,Tea and coffee merchants
+5280780,05 Education and health,28 Health practitioners and establishments,780,Accident and emergency hospitals
+5280330,05 Education and health,28 Health practitioners and establishments,330,"Alternative, natural and complementary"
+5280364,05 Education and health,28 Health practitioners and establishments,364,Chemists and pharmacies
+5280333,05 Education and health,28 Health practitioners and establishments,333,Chiropodists
+5280365,05 Education and health,28 Health practitioners and establishments,365,Clinics and health centres
+5280815,05 Education and health,28 Health practitioners and establishments,815,Day and Care Centres
+5280367,05 Education and health,28 Health practitioners and establishments,367,Dental and medical laboratories
+5280368,05 Education and health,28 Health practitioners and establishments,368,Dental surgeries
+5280335,05 Education and health,28 Health practitioners and establishments,335,Dental technicians
+5280337,05 Education and health,28 Health practitioners and establishments,337,Dieticians and nutritionists
+5280369,05 Education and health,28 Health practitioners and establishments,369,Doctors surgeries
+5280333,05 Education and health,28 Health practitioners and establishments,333,Foot related services
+5280340,05 Education and health,28 Health practitioners and establishments,340,Homeopaths
+5280370,05 Education and health,28 Health practitioners and establishments,370,Hospices
+5280371,05 Education and health,28 Health practitioners and establishments,371,Hospitals
+5280372,05 Education and health,28 Health practitioners and establishments,372,Mental health centres and practitioners
+5280342,05 Education and health,28 Health practitioners and establishments,342,Midwifery
+5280373,05 Education and health,28 Health practitioners and establishments,373,Nursing and residential care homes
+5280344,05 Education and health,28 Health practitioners and establishments,344,Optometrists and opticians
+5280809,05 Education and health,28 Health practitioners and establishments,809,Parenting and childcare services
+5280345,05 Education and health,28 Health practitioners and establishments,345,Physical therapy
+5280352,05 Education and health,28 Health practitioners and establishments,352,Speech therapists
+5280354,05 Education and health,28 Health practitioners and establishments,354,Surgeons and cosmetic surgeries
+5280812,05 Education and health,28 Health practitioners and establishments,812,Walk-in centres
+7420544,07 Manufacturing and production,42 Industrial products,544,Abrasive products and grinding equipment 
+7420783,07 Manufacturing and production,42 Industrial products,783, Access equipment 
+7420545,07 Manufacturing and production,42 Industrial products,545,Adhesives and sealants 
+7420546,07 Manufacturing and production,42 Industrial products,546,Aeroplanes 
+7420547,07 Manufacturing and production,42 Industrial products,547,Agricultural machinery and goods 
+7420548,07 Manufacturing and production,42 Industrial products,548,Air and water filtration 
+7420549,07 Manufacturing and production,42 Industrial products,549,Arms and ammunition 
+7420550,07 Manufacturing and production,42 Industrial products,550,"Bearing, gear and drive elements "
+7420551,07 Manufacturing and production,42 Industrial products,551,Bee-keeping supplies 
+7420553,07 Manufacturing and production,42 Industrial products,553,"Bricks, tiles, clay and ceramic products "
+7420555,07 Manufacturing and production,42 Industrial products,555,"Cable, wire and fibre optics "
+7420784,07 Manufacturing and production,42 Industrial products,784,Car ports and steel buildings 
+7420557,07 Manufacturing and production,42 Industrial products,557,"Colours, chemicals and water softeners and supplies"
+7420558,07 Manufacturing and production,42 Industrial products,558,Cleaning equipment and supplies 
+7420562,07 Manufacturing and production,42 Industrial products,562,Concrete products 
+7420563,07 Manufacturing and production,42 Industrial products,563,Cooling and refrigeration 
+7420765,07 Manufacturing and production,42 Industrial products,765,Educational equipment and supplies 
+7420564,07 Manufacturing and production,42 Industrial products,564, Electrical components 
+7420565,07 Manufacturing and production,42 Industrial products,565,Electrical motors and generators 
+7420566,07 Manufacturing and production,42 Industrial products,566,Electrical production and manipulation equipment
+7420567,07 Manufacturing and production,42 Industrial products,567, Electronic equipment 
+7420568,07 Manufacturing and production,42 Industrial products,568,Electronic media 
+7420569,07 Manufacturing and production,42 Industrial products,569,Engines 
+7420781,07 Manufacturing and production,42 Industrial products,781,"Fences, gates and railings "
+7420571,07 Manufacturing and production,42 Industrial products,571,Fertilisers 
+7420572,07 Manufacturing and production,42 Industrial products,572,Food and beverage industry machinery 
+7420573,07 Manufacturing and production,42 Industrial products,573,General construction supplies 
+7420612,07 Manufacturing and production,42 Industrial products,612,General manufacturing 
+7420574,07 Manufacturing and production,42 Industrial products,574,General-purpose machinery 
+7420575,07 Manufacturing and production,42 Industrial products,575,Glass 
+7420788,07 Manufacturing and production,42 Industrial products,788,Glass fibre services 
+7420576,07 Manufacturing and production,42 Industrial products,576,Horticultural equipment 
+7420767,07 Manufacturing and production,42 Industrial products,767,Ice 
+7420577,07 Manufacturing and production,42 Industrial products,577,Industrial coatings and finishings
+7420580,07 Manufacturing and production,42 Industrial products,580,Lifting and handling equipment
+7420581,07 Manufacturing and production,42 Industrial products,581,Lubricants and lubricating equipment
+7420582,07 Manufacturing and production,42 Industrial products,582,Marine equipment including boats and ships
+7420583,07 Manufacturing and production,42 Industrial products,583,Measurement and inspection equipment
+7420584,07 Manufacturing and production,42 Industrial products,584,"Medical equipment, supplies and
+pharmaceuticals"
+7420585,07 Manufacturing and production,42 Industrial products,585," Metals manufacturers, fabricators and
+stockholders"
+7420586,07 Manufacturing and production,42 Industrial products,586,"Moulds, dies and castings"
+7420588,07 Manufacturing and production,42 Industrial products,588,Office and shop equipment
+7420589,07 Manufacturing and production,42 Industrial products,589, Ovens and furnaces
+7420590,07 Manufacturing and production,42 Industrial products,590,Packaging
+7420591,07 Manufacturing and production,42 Industrial products,591," Paints, varnishes and lacquers"
+7420594,07 Manufacturing and production,42 Industrial products,594,Pesticides
+7420598,07 Manufacturing and production,42 Industrial products,598, Printing-related machinery
+7420599,07 Manufacturing and production,42 Industrial products,599, Published goods
+7420600,07 Manufacturing and production,42 Industrial products,600,Pumps and compressors
+7420601,07 Manufacturing and production,42 Industrial products,601,Radar and telecommunications equipment
+7420602,07 Manufacturing and production,42 Industrial products,602, Road maintenance equipment
+7420603,07 Manufacturing and production,42 Industrial products,603,"Ropes, nets and cordage"
+7420604,07 Manufacturing and production,42 Industrial products,604,"Rubber, silicones and plastics"
+7420605,07 Manufacturing and production,42 Industrial products,605," Seals, tapes, taps and valves"
+7420791,07 Manufacturing and production,42 Industrial products,791," Shelving, storage, safes and vaults"
+7420606,07 Manufacturing and production,42 Industrial products,606, Signs
+7420607,07 Manufacturing and production,42 Industrial products,607,Special purpose machinery and equipment
+7420609,07 Manufacturing and production,42 Industrial products,609," Stationery, stamps, tags and labels"
+7420608,07 Manufacturing and production,42 Industrial products,608," Textiles, fabrics, silk and machinery"
+7420579,07 Manufacturing and production,42 Industrial products,579,Tools including machine shops
+7420615,07 Manufacturing and production,42 Industrial products,615, Vehicles
+7420613,07 Manufacturing and production,42 Industrial products,613,Vehicle bodybuilders
+7420614,07 Manufacturing and production,42 Industrial products,614, Vehicle components
+7420787,07 Manufacturing and production,42 Industrial products,787," Waste collection, processing and disposal
+equipment"
+7420616,07 Manufacturing and production,42 Industrial products,616," Wood products including charcoal, paper, card
+and board"
+7420617,07 Manufacturing and production,42 Industrial products,617, Workwear
+10540730,10 Transport,54 Road and rai,730,Bridges
+10540733,10 Transport,54 Road and rai,733,Cattle grids
+10540734,10 Transport,54 Road and rai,734,Fords and level crossings
+10540735,10 Transport,54 Road and rai,735,Motorway service stations
+10540736,10 Transport,54 Road and rai,736,Parking
+10540737,10 Transport,54 Road and rai,737,Petrol and fuel stations
+10540739,10 Transport,54 Road and rai,739,Roadside telephone boxes
+10540740,10 Transport,54 Road and rai,740, Signalling facilities
+10540742,10 Transport,54 Road and rai,742,Tunnels
+10540743,10 Transport,54 Road and rai,743,Viaducts
+10540744,10 Transport,54 Road and rai,744,Weighbridges
+7410531,07 Manufacturing and production,41 Industrial features,531, Business parks and industrial estates 
+7410532,07 Manufacturing and production,41 Industrial features,532,Chimneys 
+7410533,07 Manufacturing and production,41 Industrial features,533,Conveyors 
+7410534,07 Manufacturing and production,41 Industrial features,534,Energy production 
+7410535,07 Manufacturing and production,41 Industrial features,535,Lighting towers 
+7410536,07 Manufacturing and production,41 Industrial features,536,Lime kilns 
+7410537,07 Manufacturing and production,41 Industrial features,537,Oast houses
+7410538,07 Manufacturing and production,41 Industrial features,538,Pipelines
+7410539,07 Manufacturing and production,41 Industrial features,539,Tanks (generic)
+7410540,07 Manufacturing and production,41 Industrial features,540,Travelling cranes and gantries
+7410542,07 Manufacturing and production,41 Industrial features,542,Unspecified works or factories
+7410543,07 Manufacturing and production,41 Industrial features,543,Water pumping stations
+2130204,02 Commercial services,13 Repair and servicing,204,Building repairs
+2130205,02 Commercial services,13 Repair and servicing,205,Electrical equipment repair and servicing
+2130206,02 Commercial services,13 Repair and servicing,206,Household repairs and restoration
+2130207,02 Commercial services,13 Repair and servicing,207,Industrial repairs and servicing
+2130209,02 Commercial services,13 Repair and servicing,209,Service industry equipment repairs
+2130793,02 Commercial services,13 Repair and servicing,793, Shoe repairs
+2130210,02 Commercial services,13 Repair and servicing,210,Sports and leisure equipment repair
+2130211,02 Commercial services,13 Repair and servicing,211,Tool repairs
+2130212,02 Commercial services,13 Repair and servicing,212,"Vehicle repair, testing and servicing"
+4240289,04 Sport and entertainment,24 Sports complex,289,Athletics facilities
+4240290,04 Sport and entertainment,24 Sports complex,290,Bowling facilities
+4240291,04 Sport and entertainment,24 Sports complex,291,Climbing facilities
+4240292,04 Sport and entertainment,24 Sports complex,292,"Golf ranges, courses, clubs and professionals"
+4240293,04 Sport and entertainment,24 Sports complex,293,"Gymnasiums, sports halls and leisure centres"
+4240294,04 Sport and entertainment,24 Sports complex,294,Ice rinks
+4240297,04 Sport and entertainment,24 Sports complex,297,Motorsport venues
+4240298,04 Sport and entertainment,24 Sports complex,298,Racecourses and greyhound tracks
+4240299,04 Sport and entertainment,24 Sports complex,299,Shooting facilities
+4240300,04 Sport and entertainment,24 Sports complex,300,Ski infrastructure and aerial cableways
+4240301,04 Sport and entertainment,24 Sports complex,301,Snooker and pool halls
+4240302,04 Sport and entertainment,24 Sports complex,302,"Sports grounds, stadia and pitches"
+4240303,04 Sport and entertainment,24 Sports complex,303,Squash courts
+4240304,04 Sport and entertainment,24 Sports complex,304,Swimming pools
+4240305,04 Sport and entertainment,24 Sports complex,305,Tennis facilities
+4240306,04 Sport and entertainment,24 Sports complex,306,Velodromes
+2080114,02 Commercial services,"08 IT, advertising, marketing and media services",114,Advertising services
+2080115,02 Commercial services,"08 IT, advertising, marketing and media services",115,"Artists, illustrators and calligraphers"
+2080116,02 Commercial services,"08 IT, advertising, marketing and media services",116,Computer security
+2080117,02 Commercial services,"08 IT, advertising, marketing and media services",117,Computer systems services
+2080118,02 Commercial services,"08 IT, advertising, marketing and media services",118,Concert/exhibition organisers and services
+2080119,02 Commercial services,"08 IT, advertising, marketing and media services",119,Database services
+2080120,02 Commercial services,"08 IT, advertising, marketing and media services",120,Desktop publishing services
+2080121,02 Commercial services,"08 IT, advertising, marketing and media services",121,Electronic and Internet publishers
+2080122,02 Commercial services,"08 IT, advertising, marketing and media services",122,Film and video services
+2080123,02 Commercial services,"08 IT, advertising, marketing and media services",123,General computer services
+2080124,02 Commercial services,"08 IT, advertising, marketing and media services",124,Internet services
+2080125,02 Commercial services,"08 IT, advertising, marketing and media services",125,Literary services
+2080126,02 Commercial services,"08 IT, advertising, marketing and media services",126,Mailing and other information services
+2080127,02 Commercial services,"08 IT, advertising, marketing and media services",127,Marketing services
+2080128,02 Commercial services,"08 IT, advertising, marketing and media services",128,"Plate makers, print finishers and typesetters"
+2080129,02 Commercial services,"08 IT, advertising, marketing and media services",129,Press and journalism services
+2080130,02 Commercial services,"08 IT, advertising, marketing and media services",130,Printing and photocopying services
+2080131,02 Commercial services,"08 IT, advertising, marketing and media services",131,Recording studios and record companies
+2080133,02 Commercial services,"08 IT, advertising, marketing and media services",133,"Telephone, telex and fax services"
+2080134,02 Commercial services,"08 IT, advertising, marketing and media services",134,Television and radio services
+5320384,05 Education and health,32 Recreational and vocational education,384,Ballet and dance schools
+5320385,05 Education and health,32 Recreational and vocational education,385,Beauty and hairdressing schools
+5320388,05 Education and health,32 Recreational and vocational education,388,Diving schools
+5320389,05 Education and health,32 Recreational and vocational education,389,Drama schools
+5320390,05 Education and health,32 Recreational and vocational education,390,Driving and motorcycle schools
+5320391,05 Education and health,32 Recreational and vocational education,391,First aid training
+5320392,05 Education and health,32 Recreational and vocational education,392,Flying schools
+5320394,05 Education and health,32 Recreational and vocational education,394,Language schools
+5320395,05 Education and health,32 Recreational and vocational education,395,Martial arts instruction
+5320396,05 Education and health,32 Recreational and vocational education,396,Music teachers and schools
+5320397,05 Education and health,32 Recreational and vocational education,397,Nursery schools and pre- and after-school care
+5320399,05 Education and health,32 Recreational and vocational education,399,Sailing schools
+5320400,05 Education and health,32 Recreational and vocational education,400,Sports and fitness coaching
+5320403,05 Education and health,32 Recreational and vocational education,403,Training providers and centres
+9460797,09 Retail,46 Clothing and accessories,797,Baby and nursery equipment and children’s clothes
+9460656,09 Retail,46 Clothing and accessories,656,Clothing
+9460657,09 Retail,46 Clothing and accessories,657,Footwear
+9460659,09 Retail,46 Clothing and accessories,659,Jewellery and fashion accessories
+9460660,09 Retail,46 Clothing and accessories,660,Lingerie and hosiery
+2110189,02 Commercial services,11 Property and development services,189,Commercial property letting
+2110191,02 Commercial services,11 Property and development services,191,Estate and property management
+2110194,02 Commercial services,11 Property and development services,194,Property development services
+2110195,02 Commercial services,11 Property and development services,195,Property information services
+2110192,02 Commercial services,11 Property and development services,192,Property letting
+2110190,02 Commercial services,11 Property and development services,190,Property sales
+2040063,02 Commercial services,04 Consultancies,63,"Architectural and building-related
+consultants"
+2040064,02 Commercial services,04 Consultancies,64,Business-related consultants
+2040065,02 Commercial services,04 Consultancies,65,Computer consultants
+2040066,02 Commercial services,04 Consultancies,66,Construction service consultants
+2040067,02 Commercial services,04 Consultancies,67,"Feng shui consultants, furnishers and shop
+fitters"
+2040068,02 Commercial services,04 Consultancies,68,Food consultants
+2040069,02 Commercial services,04 Consultancies,69,Image consultants
+2040070,02 Commercial services,04 Consultancies,70,Interpretation and translation consultants
+2040071,02 Commercial services,04 Consultancies,71,Security consultants
+2040072,02 Commercial services,04 Consultancies,72,Telecommunications consultants
+2040074,02 Commercial services,04 Consultancies,74,"Traffic management and transport-related
+consultants"
+2150218,02 Commercial services,"15 Transport, storage and delivery",218,Airlines and airline services
+2150219,02 Commercial services,"15 Transport, storage and delivery",219,Animal transportation
+2150221,02 Commercial services,"15 Transport, storage and delivery",221,Container and storage
+2150222,02 Commercial services,"15 Transport, storage and delivery",222,"Courier, delivery and messenger"
+2150223,02 Commercial services,"15 Transport, storage and delivery",223,Distribution and haulage
+2150224,02 Commercial services,"15 Transport, storage and delivery",224,Ferry and cruise companies
+2150225,02 Commercial services,"15 Transport, storage and delivery",225,Import and export services
+2150227,02 Commercial services,"15 Transport, storage and delivery",227,Railway related services
+2150228,02 Commercial services,"15 Transport, storage and delivery",228,Removals and shipping agents
+2150230,02 Commercial services,"15 Transport, storage and delivery",230,Taxi services
+5310379,05 Education and health,"31 Primary, secondary and tertiary education",379,Broad age range and secondary state schools
+5310375,05 Education and health,"31 Primary, secondary and tertiary education",375,"First, primary and infant schools"
+5310376,05 Education and health,"31 Primary, secondary and tertiary education",376,Further education establishments
+5310381,05 Education and health,"31 Primary, secondary and tertiary education",381,Higher education establishments
+5310377,05 Education and health,"31 Primary, secondary and tertiary education",377,Independent and preparatory schools
+5310801,05 Education and health,"31 Primary, secondary and tertiary education",801,Pupil referral units
+5310380,05 Education and health,"31 Primary, secondary and tertiary education",380,Special schools and colleges
+5310382,05 Education and health,"31 Primary, secondary and tertiary education",382,Unspecified and other schools
+3180252,03 Attractions,18 Recreational,252, Commons
+3180253,03 Attractions,18 Recreational,253,Country and national parks
+3180814,03 Attractions,18 Recreational,814,Municipal Parks and Gardens
+3180254,03 Attractions,18 Recreational,254, Picnic areas
+3180255,03 Attractions,18 Recreational,255,Playgrounds
+2140214,02 Commercial services,14 Research and design,214,Design services
+2140216,02 Commercial services,14 Research and design,216,Research services
+2140217,02 Commercial services,14 Research and design,217,Testing and analysis services
+3170240,03 Attractions,17 Historical and cultural,240,Archaeological sites
+3170813,03 Attractions,17 Historical and cultural,813,Art galleries
+3170241,03 Attractions,17 Historical and cultural,241,Battlefields
+3170245,03 Attractions,17 Historical and cultural,245,Historic and ceremonial structures
+3170244,03 Attractions,17 Historical and cultural,244,"Historic buildings including castles, forts and abbeys"
+3170246,03 Attractions,17 Historical and cultural,246,Historical ships
+3170248,03 Attractions,17 Historical and cultural,248,Museums
+9490695,09 Retail,49 Motoring,695,New vehicles
+9490696,09 Retail,49 Motoring,696,Second-hand vehicles
+9490697,09 Retail,49 Motoring,697,Vehicle auctions
+9490698,09 Retail,49 Motoring,698,Vehicle parts and accessories
+2050075,02 Commercial services,05 Employment and career agencies,75,"Careers offices and armed forces
+recruitment"
+2050076,02 Commercial services,05 Employment and career agencies,76,Domestic staff and home help
+2050077,02 Commercial services,05 Employment and career agencies,77,Driver agencies
+2050078,02 Commercial services,05 Employment and career agencies,78,Employment agencies
+2050079,02 Commercial services,05 Employment and career agencies,79,Modelling and theatrical agencies
+2050081,02 Commercial services,05 Employment and career agencies,81,Nursing agencies
+2600097,02 Commercial services,60 Hire services,97,Boat hiring services
+2600270,02 Commercial services,60 Hire services,270,Bouncy castles and inflatables hire
+2600159,02 Commercial services,60 Hire services,159,Clothing hire
+2600099,02 Commercial services,60 Hire services,99,Construction and tool hire
+2600104,02 Commercial services,60 Hire services,104,Leisure equipment hirings
+2600110,02 Commercial services,60 Hire services,110,"Renting and leasing of personal and household
+goods"
+2600111,02 Commercial services,60 Hire services,111,"Sound, light and vision service and equipment
+hire"
+2600113,02 Commercial services,60 Hire services,113,Vehicle hire and rental
+3580804,03 Attractions,58 Bodies of water,804,Lakes and waters
+3580805,03 Attractions,58 Bodies of water,805,Lochs and lochans
+3580803,03 Attractions,58 Bodies of water,803,Ponds
+3580807,03 Attractions,58 Bodies of water,807,Reservoirs
+3580808,03 Attractions,58 Bodies of water,808,"Settling, balancing and silt ponds"
+3580806,03 Attractions,58 Bodies of water,806,"Tams, pools and meres"
+2060083,02 Commercial services,06 Engineering services,83,Aviation engineers
+2060084,02 Commercial services,06 Engineering services,84,Chemical engineers
+2060085,02 Commercial services,06 Engineering services,85,Civil engineers
+2060086,02 Commercial services,06 Engineering services,86,Electrical and electronic engineers
+2060087,02 Commercial services,06 Engineering services,87,Hydraulic engineers
+2060088,02 Commercial services,06 Engineering services,88,Industrial engineers
+2060089,02 Commercial services,06 Engineering services,89,Instrumentation engineers
+2060090,02 Commercial services,06 Engineering services,90,Marine engineers and services
+2060091,02 Commercial services,06 Engineering services,91,Mechanical engineers
+2060092,02 Commercial services,06 Engineering services,92,Pneumatic engineers
+2060093,02 Commercial services,06 Engineering services,93,Precision engineers
+2060094,02 Commercial services,06 Engineering services,94,Structural engineers
+7380500,07 Manufacturing and production,38 Extractive industries,500,Coal mining
+7380501,07 Manufacturing and production,38 Extractive industries,501,"Oil and gas extraction, refinery and product
+manufacture"
+7380502,07 Manufacturing and production,38 Extractive industries,502,Ore mining
+7380503,07 Manufacturing and production,38 Extractive industries,503,Peat extraction
+7380504,07 Manufacturing and production,38 Extractive industries,504,"Sand, gravel and clay extraction and merchants"
+7380506,07 Manufacturing and production,38 Extractive industries,506,Stone quarrying and preparation
+7380507,07 Manufacturing and production,38 Extractive industries,507,Unspecified quarries or mines
+2070095,02 Commercial services,07 Contract services,95,Agricultural contractors
+2070096,02 Commercial services,07 Contract services,96,Aircraft charters
+2070098,02 Commercial services,07 Contract services,98,Catering services
+2070100,02 Commercial services,07 Contract services,100,Contract cleaning services
+2070101,02 Commercial services,07 Contract services,101,Display and window dressers
+2070102,02 Commercial services,07 Contract services,102,Drain and sewage clearance
+2070105,02 Commercial services,07 Contract services,105,Linen hire and washroom services
+2070107,02 Commercial services,07 Contract services,107,Office services
+2070108,02 Commercial services,07 Contract services,108,Packers
+2070109,02 Commercial services,07 Contract services,109,Pest and vermin control
+4250825,04 Sport and entertainment,"25 Venues, stage and screen",825,Adult venues
+4250308,04 Sport and entertainment,"25 Venues, stage and screen",308,Cinemas
+4250762,04 Sport and entertainment,"25 Venues, stage and screen",762,Conference and exhibition centres
+4250311,04 Sport and entertainment,"25 Venues, stage and screen",311,Discos
+4250312,04 Sport and entertainment,"25 Venues, stage and screen",312,Nightclubs
+4250314,04 Sport and entertainment,"25 Venues, stage and screen",314,Social clubs
+4250315,04 Sport and entertainment,"25 Venues, stage and screen",315,Theatres and concert halls
+4220277,04 Sport and entertainment,22 Gambling,277,Amusement parks and arcades
+4220278,04 Sport and entertainment,22 Gambling,278,Bingo halls
+4220279,04 Sport and entertainment,22 Gambling,279,Bookmakers
+4220280,04 Sport and entertainment,22 Gambling,280,Casinos
+7400522,07 Manufacturing and production,40 Foodstuffs,522,Alcoholic drinks 
+7400523,07 Manufacturing and production,40 Foodstuffs,523,"Animal feeds, pet foods, hay and straw "
+7400524,07 Manufacturing and production,40 Foodstuffs,524,Baking and confectionery 
+7400530,07 Manufacturing and production,40 Foodstuffs,530,Catering and non-specific food products 
+7400525,07 Manufacturing and production,40 Foodstuffs,525,Dairy products
+7400526,07 Manufacturing and production,40 Foodstuffs,526,"Fish, meat and poultry products"
+7400528,07 Manufacturing and production,40 Foodstuffs,528,"Milling, refining and food additives"
+7400529,07 Manufacturing and production,40 Foodstuffs,529, Non-alcoholic drinks
+6330418,06 Public infrastructure,33 Central and local government,418,Job centres
+6330416,06 Public infrastructure,33 Central and local government,416,Local government
+6330422,06 Public infrastructure,33 Central and local government,422,Police stations
+6330429,06 Public infrastructure,33 Central and local government,429,Social service activities
+6330404,06 Public infrastructure,33 Central and local government,404,Armed services
+6330415,06 Public infrastructure,33 Central and local government,415,Central government
+6330407,06 Public infrastructure,33 Central and local government,407,Coastguard stations
+6330408,06 Public infrastructure,33 Central and local government,408,Consular services
+6330409,06 Public infrastructure,33 Central and local government,409,"Courts, court services and tribunals"
+6330411,06 Public infrastructure,33 Central and local government,411,Driving test centres
+6330412,06 Public infrastructure,33 Central and local government,412,Embassies and consulates
+6330414,06 Public infrastructure,33 Central and local government,414,Fire brigade stations
+6330830,06 Public infrastructure,33 Central and local government,830,Foreign country support activities
+6330419,06 Public infrastructure,33 Central and local government,419,"Members of parliament and members of
+European parliament"
+6330424,06 Public infrastructure,33 Central and local government,424,Prisons
+6330425,06 Public infrastructure,33 Central and local government,425,Probation offices and police support services
+6330426,06 Public infrastructure,33 Central and local government,426,Registrars offices
+6330417,06 Public infrastructure,33 Central and local government,417,Revenue and customs offices
+6330431,06 Public infrastructure,33 Central and local government,431,Tribunals
+4210271,04 Sport and entertainment,21 Sport and entertainment support services,271, Children's activity centres
+4210273,04 Sport and entertainment,21 Sport and entertainment support services,273,Entertainment services
+4210274,04 Sport and entertainment,21 Sport and entertainment support services,274,Firework related services
+4210275,04 Sport and entertainment,21 Sport and entertainment support services,275,Funfair services
+4210276,04 Sport and entertainment,21 Sport and entertainment support services,276,Mobile discos
+4210820,04 Sport and entertainment,21 Sport and entertainment support services,820,Motorsport services
+7390508,07 Manufacturing and production,39 Farming,508,Animal breeders (not horses) 
+7390509,07 Manufacturing and production,39 Farming,509,Arable farming 
+7390510,07 Manufacturing and production,39 Farming,510,Bee-keepers 
+7390511,07 Manufacturing and production,39 Farming,511,Dairy farming 
+7390512,07 Manufacturing and production,39 Farming,512,Fish and shellfish 
+7390513,07 Manufacturing and production,39 Farming,513,Forestry 
+7390514,07 Manufacturing and production,39 Farming,514,"Fruit, flower and vegetable growers"
+7390515,07 Manufacturing and production,39 Farming,515,Hoppers and silos
+7390516,07 Manufacturing and production,39 Farming,516,Horse breeders and dealers
+7390517,07 Manufacturing and production,39 Farming,517,Livestock farming
+7390518,07 Manufacturing and production,39 Farming,518,Mixed or unspecified farming
+7390520,07 Manufacturing and production,39 Farming,520,"Poultry farming, equipment and supplies"
+7390521,07 Manufacturing and production,39 Farming,521,Sheep dips and washes
+1010003,"01 Accommodation, eating and drinking",01 Accommodation,3,"Bed and breakfast and backpacker
+accommodation"
+1010002,"01 Accommodation, eating and drinking",01 Accommodation,2,"Camping, caravanning, mobile homes, holiday
+parks and centres"
+1010005,"01 Accommodation, eating and drinking",01 Accommodation,5,Hostels and refuges for the homeless
+1010006,"01 Accommodation, eating and drinking",01 Accommodation,6,"Hotels, motels, country houses and inns"
+1010007,"01 Accommodation, eating and drinking",01 Accommodation,7,Self catering
+1010008,"01 Accommodation, eating and drinking",01 Accommodation,8,Timeshare
+1010009,"01 Accommodation, eating and drinking",01 Accommodation,9,Youth accommodation
+5290356,05 Education and health,29 Health support services,356,Ambulance and medical transportation services
+5290357,05 Education and health,29 Health support services,357,Blood transfusion service
+5290358,05 Education and health,29 Health support services,358,Counselling and advice services
+5290359,05 Education and health,29 Health support services,359,Health authorities
+5290106,05 Education and health,29 Health support services,106,Medical equipment rental and leasing
+5290361,05 Education and health,29 Health support services,361,Medical waste disposal services
+5290362,05 Education and health,29 Health support services,362,Pregnancy related services and help centres
+5290363,05 Education and health,29 Health support services,363,X-ray services
+10570731,10 Transport,"57 Public transport, stations and infrastructure",731,"Bus and coach stations, depots and companies"
+10570794,10 Transport,"57 Public transport, stations and infrastructure",794,London Underground entrances
+10570738,10 Transport,"57 Public transport, stations and infrastructure",738,"Railway stations, junctions and halts"
+10570758,10 Transport,"57 Public transport, stations and infrastructure",758,Taxi ranks
+10570756,10 Transport,"57 Public transport, stations and infrastructure",756,"Tram, metro and light railway stations and stops"
+10570761,10 Transport,"57 Public transport, stations and infrastructure",761,Underground network stations
+2120199,02 Commercial services,12 Recycling services,199, Clearance and salvage dealers
+2120198,02 Commercial services,12 Recycling services,198,Rag merchants
+2120196,02 Commercial services,12 Recycling services,196,"Recycling, reclamation and disposal"
+2120200,02 Commercial services,12 Recycling services,200,Scrap metal dealers and breakers yards
+2120202,02 Commercial services,12 Recycling services,202,Waste paper merchants
+3190257,03 Attractions,19 Landscape features,257,Designated scenic features
+3190259,03 Attractions,19 Landscape features,259,Trigonometric points
+5260316,05 Education and health,26 Animal welfare,316,Animal clipping and grooming
+5260317,05 Education and health,26 Animal welfare,317,Dog training
+5260318,05 Education and health,26 Animal welfare,318,Horse training
+5260319,05 Education and health,26 Animal welfare,319,Kennels and catteries
+5260320,05 Education and health,26 Animal welfare,320,Pet cemeteries and crematoria
+5260323,05 Education and health,26 Animal welfare,323,Veterinary pharmacies
+5260322,05 Education and health,26 Animal welfare,322, Veterinarians and animal hospitals
+7370464,07 Manufacturing and production,37 Consumer products,464," Baby, nursery and playground equipment "
+7370790,07 Manufacturing and production,37 Consumer products,790,"Bathroom fixtures, fittings and sanitary
+equipment"
+7370465,07 Manufacturing and production,37 Consumer products,465, Beds and bedding 
+7370466,07 Manufacturing and production,37 Consumer products,466,Brushes 
+7370467,07 Manufacturing and production,37 Consumer products,467,Candles 
+7370468,07 Manufacturing and production,37 Consumer products,468,Canvas goods 
+7370470,07 Manufacturing and production,37 Consumer products,470,"Carpets, flooring, rugs and soft furnishings "
+7370472,07 Manufacturing and production,37 Consumer products,472,China and glassware 
+7370473,07 Manufacturing and production,37 Consumer products,473,"Clothing, components and accessories "
+7370785,07 Manufacturing and production,37 Consumer products,785,Conservatories 
+7370474,07 Manufacturing and production,37 Consumer products,474,Cookers and stoves – non-electrical 
+7370475,07 Manufacturing and production,37 Consumer products,475,"Cosmetics, toiletries and perfumes "
+7370476,07 Manufacturing and production,37 Consumer products,476,Curtains and blinds 
+7370477,07 Manufacturing and production,37 Consumer products,477,Cutlery and tableware 
+7370478,07 Manufacturing and production,37 Consumer products,478,Disability and mobility equipment 
+7370486,07 Manufacturing and production,37 Consumer products,486,Disposable products 
+7370782,07 Manufacturing and production,37 Consumer products,782,Fireplaces and mantelpieces 
+7370480,07 Manufacturing and production,37 Consumer products,480,Footwear
+7370481,07 Manufacturing and production,37 Consumer products,481,Furniture
+7370482,07 Manufacturing and production,37 Consumer products,482,Garden goods
+7370483,07 Manufacturing and production,37 Consumer products,483,Giftware
+7370485,07 Manufacturing and production,37 Consumer products,485,"Hobby, sports and pastime products"
+7370487,07 Manufacturing and production,37 Consumer products,487,"Jewellery, gems, clocks and watches"
+7370488,07 Manufacturing and production,37 Consumer products,488,Lampshades and lighting
+7370489,07 Manufacturing and production,37 Consumer products,489,Leather products
+7370490,07 Manufacturing and production,37 Consumer products,490,Lingerie and hosiery
+7370491,07 Manufacturing and production,37 Consumer products,491,"Luggage, bags, umbrellas and travel accessories"
+7370471,07 Manufacturing and production,37 Consumer products,471,"Medals, trophies, ceremonial and religious
+goods"
+7370493,07 Manufacturing and production,37 Consumer products,493,Musical instruments
+7370494,07 Manufacturing and production,37 Consumer products,494,Photographic and optical equipment
+7370479,07 Manufacturing and production,37 Consumer products,479, Refrigeration and freezing appliances
+7370495,07 Manufacturing and production,37 Consumer products,495,Saunas and sunbeds
+7370497,07 Manufacturing and production,37 Consumer products,497,"Tents, marquees and camping equipment"
+7370498,07 Manufacturing and production,37 Consumer products,498,Tobacco products
+5270324,05 Education and health,27 Education support services,324,Education authorities
+5270325,05 Education and health,27 Education support services,325,Education services
+5270326,05 Education and health,27 Education support services,326,Examination boards
+5270800,05 Education and health,27 Education support services,800,Secure units
+4230282,04 Sport and entertainment,23 Outdoor pursuits,282,Angling and sports fishing
+4230283,04 Sport and entertainment,23 Outdoor pursuits,283,"Combat, laser and paintball games"
+4230284,04 Sport and entertainment,23 Outdoor pursuits,284,Hot air ballooning
+4230770,04 Sport and entertainment,23 Outdoor pursuits,770,Outdoor pursuit organisers and equipment
+4230285,04 Sport and entertainment,23 Outdoor pursuits,285,Parachuting and bungee jumping
+4230286,04 Sport and entertainment,23 Outdoor pursuits,286,Paragliding and hang-gliding
+4230321,04 Sport and entertainment,23 Outdoor pursuits,321,"Riding schools, livery stables and equestrian centres"
+4230287,04 Sport and entertainment,23 Outdoor pursuits,287,Water sports
+3160231,03 Attractions,16 Botanical and zoological,231,Aquaria and sea life centres
+3160232,03 Attractions,16 Botanical and zoological,232,"Bird reserves, collections and sanctuaries"
+3160233,03 Attractions,16 Botanical and zoological,233,Butterfly farms
+3160235,03 Attractions,16 Botanical and zoological,235,Farm-based attractions
+3160236,03 Attractions,16 Botanical and zoological,236,Horticultural attractions
+3160237,03 Attractions,16 Botanical and zoological,237,Salmon ladders
+3160239,03 Attractions,16 Botanical and zoological,239,Zoos and animal collections
+3200268,03 Attractions,20 Tourism,268,Information centres
+3200263,03 Attractions,20 Tourism,263,"Laseria, observatories and planetaria"
+3200264,03 Attractions,20 Tourism,264,Model villages
+3200265,03 Attractions,20 Tourism,265,"Railways (heritage, steam and miniature)"
+3200267,03 Attractions,20 Tourism,267,"Sightseeing, tours, viewing and visitor centres"
+3200266,03 Attractions,20 Tourism,266,Theme and adventure parks
+3200268,03 Attractions,20 Tourism,268,Tourist information centres
+3200269,03 Attractions,20 Tourism,269,Unspecified and other attractions
+6350445,06 Public infrastructure,35 Organisations,445,Animal welfare organisations 
+6350816,06 Public infrastructure,35 Organisations,816,Charitable organisations 
+6350769,06 Public infrastructure,35 Organisations,769,Community networks and projects 
+6350817,06 Public infrastructure,35 Organisations,817,Conservation Organisations 
+6350446,06 Public infrastructure,35 Organisations,446,Fan clubs and associations 
+6350448,06 Public infrastructure,35 Organisations,448,Institutes and professional organisations
+6350449,06 Public infrastructure,35 Organisations,449,Political parties and related organisations
+6350450,06 Public infrastructure,35 Organisations,450,Religious organisations
+6350447,06 Public infrastructure,35 Organisations,447,Sports clubs and associations
+6350452,06 Public infrastructure,35 Organisations,452,Youth organisations
+10530727,10 Transport,53 Air,727,Aeronautical features
+10530728,10 Transport,53 Air,728,Airports and landing strips
+10530729,10 Transport,53 Air,729,Helipads
+10540751,10 Transport,56 Water,751,Aqueducts
+10540760,10 Transport,56 Water,760,Ferries and ferry terminals
+10540752,10 Transport,56 Water,752,Locks
+10540753,10 Transport,56 Water,753,Moorings and unloading facilities
+10540754,10 Transport,56 Water,754," Rivers and canal organisations and
+infrastructure"
+10540755,10 Transport,56 Water,755,"Weirs, sluices and dams"
